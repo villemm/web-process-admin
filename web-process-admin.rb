@@ -258,7 +258,7 @@ RINDA_CLIENT_CODE
   tabstext = <<TABS
 <head>
     <meta http-equiv="Pragma" content="no-cache">
-    <title>Nexa Host Admin</title>
+    <title>Web Process/Host Admin</title>
     <link rel="stylesheet" href="textwcs.css" type="text/css">
     <style type="text/css">
     <!--
