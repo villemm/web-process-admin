@@ -1,0 +1,17 @@
+#Ruby web host/process admin tool
+
+= Introduction =
+
+Allows remote administering of windows, mac and linux hosts with minimal configuration. No big web server dependencies, 1 ruby file includes everything, just add ruby intepreter and PSTOOLS on windows.
+
+
+= Details =
+
+#Copyright ---- Ville Maanpaa 12-19-2006
+#Run this server from command line:
+#ruby auto_palvelin.rb
+#then run clients from command prompt from as many machines as needed:
+#ruby -e "require 'net/http'; eval(Net:: HTTP.new('10.65.5.152', 11113).get('/client_code').body);"
+#then point FIREFOX at:
+#http://localhost:11113
+#BE CAREFUL, THIS PROGRAM CAN EXECUTE ANY COMMAND
