@@ -16,4 +16,4 @@ Allows remote administering of windows, mac and linux hosts with minimal configu
 #http://localhost:11113
 #BE CAREFUL, THIS PROGRAM CAN EXECUTE ANY COMMAND
 
-http://ville.maanpaa.googlepages.com/CropperCapture18.Jpg
+http://ville.maanpaa.googlepages.com/web-host-admin.jpg
